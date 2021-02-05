@@ -1,4 +1,6 @@
 .wrapper {
-    padding: 0 10%;
-    
+    padding: 0px 10%;
+    /* display: flex;
+    flex-wrap: wrap; */
+
 }
